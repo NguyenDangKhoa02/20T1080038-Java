@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T08:28:01.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="1vXj1uQuFDiWrYlaPei7" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-15T08:30:18.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="-zM9pfgUd1ZGfz0LG0RN" version="15.2.7" type="github">
   <diagram id="bc1pMs-ueyKUFe9-j6o9" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,17 +112,41 @@
         <mxCell id="WlmM7-1C6_T7BSEHohl4-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WlmM7-1C6_T7BSEHohl4-31" target="WlmM7-1C6_T7BSEHohl4-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WlmM7-1C6_T7BSEHohl4-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WlmM7-1C6_T7BSEHohl4-31" target="WlmM7-1C6_T7BSEHohl4-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WlmM7-1C6_T7BSEHohl4-31" value="d == 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="367.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WlmM7-1C6_T7BSEHohl4-33" value="Phương trình có nghiệm kép là &lt;br&gt;x = -b/(a*2)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="365" width="225" height="85" as="geometry" />
+          <mxGeometry x="102.5" y="365" width="225" height="85" as="geometry" />
         </mxCell>
         <mxCell id="WlmM7-1C6_T7BSEHohl4-35" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="365" width="40" height="20" as="geometry" />
+          <mxGeometry x="10" y="390" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WlmM7-1C6_T7BSEHohl4-36" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="195" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WlmM7-1C6_T7BSEHohl4-39" value="Phương trình có hai nghiệm là:&amp;nbsp;&lt;br&gt;x1 = (-b+sqrt(d))/(2*a)&lt;br&gt;x2= (-b+sqrt(d))/(2*a)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="510" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WlmM7-1C6_T7BSEHohl4-41" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="447.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WlmM7-1C6_T7BSEHohl4-42" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WlmM7-1C6_T7BSEHohl4-39" target="WlmM7-1C6_T7BSEHohl4-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="58" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WlmM7-1C6_T7BSEHohl4-43" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WlmM7-1C6_T7BSEHohl4-33" target="WlmM7-1C6_T7BSEHohl4-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="500" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
