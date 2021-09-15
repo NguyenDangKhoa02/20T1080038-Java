@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T08:36:01.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="LwC-Z_zzupJazWRim8tE" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-15T08:38:38.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="l3u0ZdjaVV-QwNf1fWY-" version="15.2.7" type="github">
   <diagram id="bc1pMs-ueyKUFe9-j6o9" name="Page-1">
-    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,6 +177,12 @@
         </mxCell>
         <mxCell id="WlmM7-1C6_T7BSEHohl4-49" value="Phương trình vô nghiệm" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="490" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WlmM7-1C6_T7BSEHohl4-56" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WlmM7-1C6_T7BSEHohl4-57" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="447.5" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
